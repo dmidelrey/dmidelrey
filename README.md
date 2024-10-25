@@ -1,5 +1,5 @@
 ## Hello everyone 👋, my name is Dmitry
-### I'm a C++ developer, teacher, and curriculum designer
+### I'm a DevOps engenieer, C++ developer, teacher, and curriculum designer
 ![I'm a C++ developer, teacher, and curriculum designer](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 I've been programming since I was 12, and it's my passion. Another big passion of mine is creativity. I started with simple HTML/CSS/JS landing pages, tried creating large projects using PHP, simultaneously learned C, and dabbled in electronics and robotics. I attended science camps and got introduced to Python and C++. I won competitions and got into ITMO.
